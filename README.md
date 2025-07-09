@@ -31,20 +31,21 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="ts" width="45" height="45"/>
 <img src="https://cours.marill.dev/assets/img/angular.png" alt="angular" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="45" height="45"/>
-<img src="https://images.seeklogo.com/logo-png/50/2/react-logo-png_seeklogo-507247.png" alt="react" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="ionic" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" alt="react" width="45" height="45"/>
+<img src="https://lucide.dev/framework-logos/react-native.svg" alt="reactnative" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="45" height="45"/>
 </div>
 
 <h2>💾 &nbsp;Version control & project management tools</h2>
 <div style="display: flex; gap: 0.75rem">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-technology-logo-social-media-logo-logo-company-download-svg-png-gif-flat-icon-logos-technology-logo-vol-1-pack-azure-devops-logo-icon-2944715.png" alt="azuredevops" width="45" height="45"/>
-<img src="https://seeklogo.com/images/A/azure-repos-logo-013E078726-seeklogo.com.png" alt="azurerepository" width="45" height="45"/>
+<img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w287h927a1a8n0l3duq5.jpg" alt="azuredevopsrepository" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="confluence" width="45" height="45"/>
 </div>
-
 
 ## ⏰ Weekly development breakdown
 <!--START_SECTION:waka-->
