@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <image src="https://wakatime.com/share/@ShadyManu/4fbc0db6-f0b7-4edc-91b1-7f3fc1011d30.svg" />
+
+## ⏰ Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
