@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ShadyManu/shadymanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<figure><embed src="https://wakatime.com/share/@ShadyManu/4fbc0db6-f0b7-4edc-91b1-7f3fc1011d30.svg"></embed></figure>
