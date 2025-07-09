@@ -1,13 +1,14 @@
+##📟 &nbsp;WakaTime coding stats:
 <image src="https://wakatime.com/share/@ShadyManu/4fbc0db6-f0b7-4edc-91b1-7f3fc1011d30.svg" />
 
-<h2>🔨 &nbsp;My favorite IDEs / Text editors</h2>
+##🔨 &nbsp;My favorite IDEs / Text editors
 <div style="display: flex; gap: 0.75rem">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/2048px-JetBrains_Rider_Icon.svg.png" alt="rider" width="45" height="45"/>
 </div>
 
-<h2> 🗄️ &nbsp;Backend stack</h2>
+##🗄️ &nbsp;Backend stack
 <div style="display: flex; gap: 0.75rem">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="csharp" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="45" height="45"/>
@@ -22,7 +23,7 @@
 <img src="https://svgmix.com/uploads/skillicons/5c80e9-mongodb.svg" alt="mongodb" width="45" height="45"/>
 </div>
 
-<h2> 💻 &nbsp;Frontend stack</h2>
+##💻 &nbsp;Frontend stack
 <div style="display: flex; gap: 0.75rem">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="html" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="45" height="45"/>
@@ -37,7 +38,7 @@
 <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="45" height="45"/>
 </div>
 
-<h2>💾 &nbsp;Version control & project management tools</h2>
+##💾 &nbsp;Version control & project management tools
 <div style="display: flex; gap: 0.75rem">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-technology-logo-social-media-logo-logo-company-download-svg-png-gif-flat-icon-logos-technology-logo-vol-1-pack-azure-devops-logo-icon-2944715.png" alt="azuredevops" width="45" height="45"/>
 <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w287h927a1a8n0l3duq5.jpg" alt="azuredevopsrepository" width="45" height="45"/>
@@ -50,3 +51,13 @@
 ## ⏰ Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## 📫 Contatti
+<p align="left">
+  <a href="mailto:manuelraso1994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manuel-raso/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
