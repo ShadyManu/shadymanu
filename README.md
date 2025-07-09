@@ -1,4 +1,4 @@
-## 📟 &nbsp;WakaTime coding stats:
+## 📟 &nbsp;WakaTime coding stats (2023-ongoing):
 <image src="https://wakatime.com/share/@ShadyManu/4fbc0db6-f0b7-4edc-91b1-7f3fc1011d30.svg" />
 
 ## 🔨 &nbsp;My favorite IDEs / Text editors
