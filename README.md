@@ -49,10 +49,6 @@
 <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="confluence" width="45" height="45"/>
 </div>
 
-## ⏰ Weekly development breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 📫 Contacts
 <p align="left">
   <a href="mailto:manuelraso1994es@gmail.com">
