@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="45" height="45"/>
 <img src="https://wpforms.com/wp-content/uploads/cache/integrations/a71f76c3256e4c206a4841d8eb0fed35.png" alt="mssql" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="mysql" width="45" height="45"/>
-<img src="https://svgmix.com/uploads/skillicons/5c80e9-mongodb.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" alt="mongodb" width="45" height="45"/>
 </div>
 
 ## 💻 &nbsp;Frontend stack
