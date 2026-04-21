@@ -3,24 +3,24 @@
 
 ## 🔨 &nbsp;My favorite IDEs / Text editors
 <div style="display: flex; gap: 0.75rem">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/2048px-JetBrains_Rider_Icon.svg.png" alt="rider" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="rider" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" alt="cursor" width="45" height="45"/>
 </div>
 
 ## 🗄️ &nbsp;Backend stack
 <div style="display: flex; gap: 0.75rem">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="csharp" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnetcore" width="45" height="45"/>
 <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="45" height="45"/>
 <img src="https://www.automatetheplanet.com/wp-content/uploads/2023/04/nUnit-logo.png" alt="nunit" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://wpforms.com/wp-content/uploads/cache/integrations/a71f76c3256e4c206a4841d8eb0fed35.png" alt="mssql" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="mysql" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="mysql" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" alt="mongodb" width="45" height="45"/>
 </div>
 
@@ -28,8 +28,8 @@
 <div style="display: flex; gap: 0.75rem">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="html" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="ts" width="45" height="45"/>
 <img src="https://cours.marill.dev/assets/img/angular.png" alt="angular" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="45" height="45"/>
