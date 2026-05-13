@@ -15,7 +15,8 @@ All-in-one digital wallet for loyalty cards, designed and developed end-to-end.
 - 📱 Cross-platform mobile app built with **React Native** (iOS live on App Store, Android in testing)
 - 🏗️ Focus on scalability, security, and performance
 
-👉 Available on the App Store -> [FideliCards on AppStore](https://apps.apple.com/app/fidelicards/id6759812207)
+👉 Available on the App Store -> [FideliCards on AppStore](https://apps.apple.com/app/fidelicards/id6759812207)<br />
+👉 Available on the Play Store -> [FideliCards on PlayStore](https://play.google.com/store/apps/details?id=com.manu.fidelicards)
 
 ---
 
