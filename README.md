@@ -5,6 +5,9 @@
 
 ## 🚀 Featured Projects
 
+### 👤 My portfolio
+👉 Visit my website portfolio -> [Manuel Raso - Full Stack Software Engineer](https://manuelraso.dev)
+
 ### 📱 FideliCards | End-to-End
 
 All-in-one digital wallet for loyalty cards, designed and developed end-to-end.
