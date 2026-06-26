@@ -21,6 +21,18 @@ All-in-one digital wallet for loyalty cards, designed and developed end-to-end.
 👉 Available on the App Store -> [FideliCards on AppStore](https://apps.apple.com/app/fidelicards/id6759812207)<br />
 👉 Available on the Play Store -> [FideliCards on PlayStore](https://play.google.com/store/apps/details?id=com.manu.fidelicards)
 
+### 🧠 Repetia | End-to-End
+
+Offline-First Vocabulary & Language Learning App, designed and developed as a solo build.
+
+- 📱 Cross-platform mobile app built with **React Native** utilizing the newest version of **Expo SDK 56**
+- 🎨 UI and styling implemented with **NativeWind**
+- ⚡ Engineered with an entirely **offline-first architecture** for seamless on-the-go learning
+- 🚀 Currently live on the **App Store** and **Google Play**
+
+👉 Available on the App Store -> [Repetia on AppStore](https://apps.apple.com/es/app/repetia/id6774373056)<br />
+👉 Available on the Play Store -> [Repetia on PlayStore](https://play.google.com/store/apps/details?id=com.repetia.app)
+
 ---
 
 ## 🔨 My favorite IDEs / Text editors
