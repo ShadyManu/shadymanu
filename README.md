@@ -6,7 +6,7 @@
 ## 🚀 Featured Projects
 
 ### 👤 My portfolio
-👉 Visit my website portfolio -> [Manuel Raso - Full Stack Software Engineer](https://manuelraso.dev)
+👉 Visit my website portfolio -> [Manuel Raso - Full Stack Software Engineer](https://manuelraso.dev?source=github)
 
 ### 📱 FideliCards | End-to-End
 
