@@ -8,6 +8,23 @@
 ### 👤 My portfolio
 👉 Visit my website portfolio -> [Manuel Raso - Full Stack Software Engineer](https://manuelraso.dev?source=github)
 
+### 🤖 AI Config | Open Source Developer Tooling
+
+Open-source developer tool that keeps AI coding assistants synchronized from a single source of truth.
+
+- 🧩 Define **agents, instructions, skills, and commands** once inside a portable `.ai/` directory
+- 🔄 Automatically generates configuration for **Claude Code, OpenAI Codex, GitHub Copilot, and OpenCode**
+- 🛡️ Built-in **drift detection and ownership tracking** prevent accidental overwrites of manually managed files
+- ⚙️ Available both as a **VS Code extension** and a standalone **CLI**
+- 🧱 Built as a modular TypeScript monorepo with provider-specific adapters and shared synchronization logic
+- 🔒 Runs entirely locally with **no LLM calls, telemetry, accounts, or network dependency**
+
+👉 GitHub -> [AI Config](https://github.com/ShadyManu/ai-config)<br />
+👉 VS Code Marketplace -> [AI Config for VS Code](https://marketplace.visualstudio.com/items?itemName=aiconfig.ai-config)<br />
+👉 Open VSX -> [AI Config on Open VSX](https://open-vsx.org/extension/aiconfig/ai-config)<br />
+👉 CLI on npm -> [@aiconfig/cli](https://www.npmjs.com/package/@aiconfig/cli)<br />
+👉 YouTube walkthrough -> [Watch AI Config in action](https://www.youtube.com/watch?v=1dwmBAFaYTM)
+
 ### 📱 FideliCards | End-to-End
 
 All-in-one digital wallet for loyalty cards, designed and developed end-to-end.
@@ -32,6 +49,19 @@ Offline-First Vocabulary & Language Learning App, designed and developed as a so
 
 👉 Available on the App Store -> [Repetia on AppStore](https://apps.apple.com/es/app/repetia/id6774373056)<br />
 👉 Available on the Play Store -> [Repetia on PlayStore](https://play.google.com/store/apps/details?id=com.repetia.app)
+
+### 📄 CV Maker | End-to-End
+
+Privacy-first CV builder that runs entirely in the browser, with no account or backend required.
+
+* 🅰️ Built with **Angular 22**, TypeScript, Signals, SCSS, and Angular CDK
+* 💾 **Local-first architecture** using IndexedDB, with CVs and application data stored directly in the browser
+* 📄 Generates real, selectable **PDFs entirely client-side**, with deterministic A4 pagination
+* 🎯 Includes an offline **ATS checker**, job application tracking, cover letters, interview preparation, and CV tailoring
+* 🤖 Optional **AI Career Copilot** supporting multiple providers with the user's own API key
+* 🔒 Designed around privacy: no analytics, telemetry, or backend storage
+
+👉 Live website -> [CV Maker](https://cv-maker.app/)
 
 ---
 
